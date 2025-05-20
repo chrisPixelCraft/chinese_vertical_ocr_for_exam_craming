@@ -1,0 +1,3 @@
+python3 transcribe_pypdf2.py
+python3 transcribe_pdfplumber.py
+python3 transcribe_pymupdf.py
